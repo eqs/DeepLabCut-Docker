@@ -4,6 +4,10 @@
 * You can easily and quickly build the environment of DeepLabCut by using this repo.
 * We support GUI tools `label_frames` and `refine_labels` with X Window System.
 
+## Prerequisities
+
+Please finish `Prerequisites` of [Docker4DeepLabCut2.0](https://github.com/AlexEMG/Docker4DeepLabCut2.0#prerequisites) (i.e. install of Docker and nvidia-docker, and complete the docker group setting)
+
 ## :mouse: Quick start :mouse:
 
 ### Build the image 
