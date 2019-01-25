@@ -30,6 +30,6 @@ Inside the container,
 $ make jupyter
 ```
 
-You can access the JupyterLab from a browser (`https://localhost:9000`).
+You can access the JupyterLab from a browser (`http://localhost:9000`).
 
 
